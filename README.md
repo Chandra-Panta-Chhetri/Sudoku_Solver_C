@@ -16,7 +16,7 @@ Randomly generates a sudoku puzzle and solves it using recursive backtracking.
 
 ## How to run program
 
-1. Fork the repo, download files manually or clone.
+1. Fork/download manually/clone the repo.
 2. Using the terminal, cd into the local copy of the repo.
 3. Enter "gcc Sudoku_Solver.c -o sudoku" into terminal.
 4. Enter "./sodoku" into terminal.
