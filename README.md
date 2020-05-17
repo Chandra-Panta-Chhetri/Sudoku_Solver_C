@@ -1,16 +1,20 @@
 # Sudoku Solver
 Randomly generates a sudoku puzzle and solves it using recursive backtracking.
 
+* [What program looks like](#what-program-looks-like)
+* [Dependencies](#dependencies)
+* [How to run program](#how-to-run-program)
+
 ## What program looks like
 
-![alt text-2](pictures/sudoku_pic_2.png "Solved Puzzle")
-![alt text-1](pictures/sudoku_pic_1.png "No Solution to Puzzle") 
+![Solved Puzzle](pictures/sudoku_pic_2.png "Solved Puzzle")
+![Puzzle with no solution](pictures/sudoku_pic_1.png "No Solution to Puzzle") 
 
 ## Dependencies
 
-**GCC** - to compile C file.
+* GCC - (For Windows: [MinGW](https://osdn.net/projects/mingw/releases/))
 
-## Running the program
+## How to run program
 
 1. Fork the repo, download files manually or clone.
 2. Using the terminal, cd into the local copy of the repo.
